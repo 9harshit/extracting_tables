@@ -7,7 +7,7 @@ Assignment 3:
 
 Instead of passing entire pdf book to parse for table, extracting single page from pdf and using that single page to parse the pdf has resulted in better extraction of tables.
 
-Total 152 tables were extracted with only few mistake table
+** Total 152 tables were extracted with only few mistake table **
 
 Solution and explaination is present in assign_2.ipynb
 
