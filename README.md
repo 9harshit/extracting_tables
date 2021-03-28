@@ -25,4 +25,5 @@ Similar method is used in CascadeTabNet, which detect table in images using MMde
 3. Structure detection of table and data.
 
 -Trying to detect tables in steps is much better method than detecting and extracting in one step. Detection of data in step may cause mix match of data if multiple tables are present on the page or incomplete extractino of table. 
+
 -Extracting tables in multiple steps also has advantage of dealing with tables of unconventional format.
