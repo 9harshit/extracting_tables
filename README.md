@@ -13,7 +13,7 @@ Solution and explaination is present in assign_2.ipynb
 
 Output is present in output_final.zip file
 
-Alternate Method used :
+# Alternate Method used :
  
 Using camelot library table data extraction was extremely bad for the PDF used.
 
